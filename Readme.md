@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyLogonParameters.cs](./CS/Solution2.Module/MyLogonParameters.cs) (VB: [MyLogonParameters.vb](./VB/Solution2.Module/MyLogonParameters.vb))
+* [Updater.cs](./CS/Solution2.Module/Updater.cs) (VB: [Updater.vb](./VB/Solution2.Module/Updater.vb))
+* [Program.cs](./CS/Solution2.Win/Program.cs) (VB: [Program.vb](./VB/Solution2.Win/Program.vb))
+* [WinApplication.cs](./CS/Solution2.Win/WinApplication.cs) (VB: [WinApplication.vb](./VB/Solution2.Win/WinApplication.vb))
+<!-- default file list end -->
 # How to change the SecuritySystem type at runtime
 
 
