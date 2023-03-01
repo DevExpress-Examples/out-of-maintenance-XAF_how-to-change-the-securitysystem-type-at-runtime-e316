@@ -88,7 +88,7 @@ protected override void OnLoggingOn( LogonEventArgs args ) {<newline/>
 
 ```
 
-The fact is that SecuritySimple uses the BasicUser type of the User, and the SecurityComplex uses User type. And when your application is running the MyDetails node's ViewID attribute is referring to a BasicUser_DetailView value (because, we implemented the SecuritySimple above). That why it is necessary to modify application model, namely the Default node.</p><p>4) Further, add the BasicUser and the User business class to your BO model. Refer to this <a href="http://documentation.devexpress.com/#Xaf/CustomDocument2721">Add a Class From the Business Class Library</a> article for more details.</p>
+The fact is that SecuritySimple uses the BasicUser type of the User, and the SecurityComplex uses User type. And when your application is running the MyDetails node's ViewID attribute is referring to a BasicUser_DetailView value (because, we implemented the SecuritySimple above). That why it is necessary to modify application model, namely the Default node.</p><p>4) Further, add the BasicUser and the User business class to your BO model. Refer to this <a href="https://docs.devexpress.com/eXpressAppFramework/112847/business-model-design-orm/ways-to-add-a-business-class">Ways to Add a Business Class</a> article for more details.</p>
 
 <br/>
 
